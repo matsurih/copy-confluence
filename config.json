@@ -1,0 +1,17 @@
+{
+  "access":{
+    "domain": "your confluence domain (eg. cnfl.xxxx.com)",
+    "username": "username",
+    "password": "password",
+    "use_https": true,
+    "verify_ssl": false
+  },
+  "base_page":{
+    "id": "base page id"
+  },
+  "new_page":{
+    "key": "storage key",
+    "title": "new title",
+    "parent_id": "parent page id if needed (optional)"
+  }
+}
